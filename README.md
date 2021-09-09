@@ -1,6 +1,6 @@
 <h1>JustCallMeRandom</h1>
 
-<h3><a href="">My bio (cause github doesnt like CSS)</a></h2>
+<h3><a href="https://raw.githack.com/JustCallMeRandom/JustCallMeRandom/main/bio.html">My bio (cause github doesnt like CSS)</a></h2>
 
 <!---
 JustCallMeRandom/JustCallMeRandom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
